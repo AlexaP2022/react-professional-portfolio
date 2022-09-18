@@ -7,10 +7,6 @@ import Footer from "./components/footer/Footer";
 import "./app.scss";
 import React, { useState } from 'react';
 
-// {useState}
-
-//function to look at state
-  //if state - intro
 
 function App() {
   const [page, setPage] = useState("Intro")

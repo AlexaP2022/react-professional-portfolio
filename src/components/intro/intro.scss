@@ -1,6 +1,17 @@
 .intro{
-    background-color: lightpink;
-    color: white;
+    background-color: white;
+    color: black;
     text-align: center;
 }
-   
+
+.profilepic {
+    float: left;
+    margin: 1rem;
+    width: 200px;
+    height:200px;
+}
+
+.intro p {
+    text-align: justify;
+    margin: 1rem;
+}
