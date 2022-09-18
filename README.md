@@ -4,7 +4,7 @@
 I created a react app portfolio to inform future employers about my myself, including my work history, a selection of coding projects, as well as my contact information (email, Github/LinkedIn Links via the footer). 
 
 [Deployed Application](https://AlexaP2022.github.io/react-professional-portfolio) <br>
-[Git Hub Repository](https://github.com/AlexaP2022/react-professional-portfolio)
+[Git Hub Repository](https://github.com/AlexaP2022/react-professional-portfolio)<br><br>
 Screenshots of Deployed Application:
 
 Portfolio Main Page - Intro/About Me Section:
