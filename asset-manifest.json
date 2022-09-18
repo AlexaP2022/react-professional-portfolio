@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-professional-portfolio/static/css/main.1283db25.css",
+    "main.js": "/react-professional-portfolio/static/js/main.aca6508f.js",
+    "static/media/digital-marketing-meeting.jpg": "/react-professional-portfolio/static/media/digital-marketing-meeting.c672fcf0b6bd0c33ff16.jpg",
+    "static/media/meet-me-at-the-bark.png": "/react-professional-portfolio/static/media/meet-me-at-the-bark.dbe5a4cade85644e6396.png",
+    "static/media/RecipEat.png": "/react-professional-portfolio/static/media/RecipEat.f58fcf09f4b6c17adde8.png",
+    "static/media/profilepic.png": "/react-professional-portfolio/static/media/profilepic.ef8a6d59fb7180e8c432.png",
+    "index.html": "/react-professional-portfolio/index.html",
+    "main.1283db25.css.map": "/react-professional-portfolio/static/css/main.1283db25.css.map",
+    "main.aca6508f.js.map": "/react-professional-portfolio/static/js/main.aca6508f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1283db25.css",
+    "static/js/main.aca6508f.js"
+  ]
+}
